@@ -146,11 +146,10 @@ pip install imbalanced-learn ipywidgets scikit-learn matplotlib pandas numpy
 📍 Coimbatore, Tamil Nadu, India
 
 LinkedIn Profile: https://www.linkedin.com/in/thirumurugan-b-302800380
-
 GitHub Profile: https://github.com/thirumurugan-1911 
----
 
-🏢 Internship
+
+##🏢 Internship
 ​This project was completed as Task 1 of the CodeAlpha Machine Learning Internship.
 ​🌐 www.codealpha.tech
 ```
