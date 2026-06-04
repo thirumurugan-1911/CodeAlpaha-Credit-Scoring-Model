@@ -108,14 +108,9 @@ CreditScore_AI/
 1. Clone the repository to your local machine.
 2. Install the required dependencies in your terminal:
 ```bash
-
-```
-
-
-
 pip install imbalanced-learn ipywidgets scikit-learn matplotlib pandas numpy
-
 ```
+
 3. Open `creditscore-ai-dashboard.ipynb` (or run the `.py` file in an Interactive Window using `# %%`).
 4. Run the cells. A standard file picker will prompt you to select your dataset.
 
