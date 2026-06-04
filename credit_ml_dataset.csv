@@ -1,0 +1,51 @@
+Customer_Name,Age,Employment_Type,Years_Employed,Income_INR,Debt_INR,DTI_Ratio,Loan_Amount_Requested,Loan_Tenure_Months,Num_Credit_Accounts,Existing_Loans,Num_Late_Payments,Payment_History,Predicted_Credit_Score,Risk_Level,Loan_Status,Payment_History_Enc,Employment_Type_Enc,Risk_Level_Enc,Loan_Status_Enc
+Raj,35,Salaried,8,60000,15000,0.25,500000,60,4,1,0,Good,780,Low Risk,Approved,2,3,0,2
+Priya,62,Salaried,23,41639,5277,0.1267,1288352,48,9,0,0,Excellent,854,Low Risk,Approved,3,3,0,2
+Amit,35,Self-Employed,13,73118,32450,0.4438,1285779,36,4,0,3,Average,693,Medium Risk,Conditional Approval,1,2,1,1
+Sneha,32,Salaried,2,62298,35912,0.5765,802834,120,7,2,0,Average,644,Medium Risk,Conditional Approval,1,3,1,1
+Vikram,24,Business,19,35054,12395,0.3536,453258,84,6,0,4,Excellent,756,Low Risk,Approved,3,1,0,2
+Anita,36,Self-Employed,11,176476,35804,0.2029,795056,24,3,2,2,Average,764,Low Risk,Approved,1,2,0,2
+Rohit,65,Salaried,29,79920,11178,0.1399,1485740,36,9,0,1,Good,867,Low Risk,Approved,2,3,0,2
+Kavya,24,Self-Employed,22,66290,36606,0.5522,1424554,48,6,3,1,Average,688,Medium Risk,Conditional Approval,1,2,1,1
+Suresh,63,Self-Employed,23,49363,22694,0.4597,1932871,60,10,3,3,Good,704,Medium Risk,Approved,2,2,1,2
+Meera,30,Salaried,21,36696,4919,0.134,183227,48,7,3,4,Good,715,Medium Risk,Approved,2,3,1,2
+Arjun,51,Salaried,9,81504,38529,0.4727,1001527,12,7,2,1,Poor,618,High Risk,Conditional Approval,0,3,2,1
+Deepa,33,Business,17,46973,6297,0.1341,1306077,36,9,3,0,Excellent,824,Low Risk,Approved,3,1,0,2
+Kiran,45,Salaried,2,30076,2920,0.0971,319256,84,9,3,1,Poor,540,High Risk,Rejected,0,3,2,0
+Pooja,32,Salaried,21,74581,32973,0.4421,1936627,60,6,3,3,Excellent,807,Low Risk,Approved,3,3,0,2
+Sanjay,36,Salaried,22,62156,23224,0.3736,191348,12,1,2,1,Excellent,801,Low Risk,Approved,3,3,0,2
+Nisha,37,Business,18,71812,32160,0.4478,1695466,48,8,3,1,Excellent,818,Low Risk,Approved,3,1,0,2
+Rahul,28,Salaried,20,257767,135356,0.5251,894358,84,2,2,0,Average,762,Low Risk,Conditional Approval,1,3,0,1
+Divya,28,Salaried,14,290584,36933,0.1271,979312,120,4,0,0,Excellent,900,Low Risk,Approved,3,3,0,2
+Manoj,56,Salaried,12,193597,61390,0.3171,844764,12,1,3,1,Good,802,Low Risk,Approved,2,3,0,2
+Swati,51,Unemployed,18,67722,14437,0.2132,1618618,36,9,0,0,Excellent,808,Low Risk,Conditional Approval,3,0,0,1
+Arun,52,Salaried,2,36477,18903,0.5182,301420,60,4,1,3,Good,625,Medium Risk,Conditional Approval,2,3,1,1
+Lakshmi,24,Self-Employed,7,148522,24111,0.1623,324471,84,5,2,3,Good,816,Low Risk,Approved,2,2,0,2
+Nikhil,26,Salaried,11,70034,22987,0.3282,824954,36,2,1,1,Good,762,Low Risk,Approved,2,3,0,2
+Rekha,56,Salaried,28,81025,45573,0.5625,292071,12,3,1,2,Good,769,Low Risk,Conditional Approval,2,3,0,1
+Vijay,60,Business,1,219201,41235,0.1881,938302,120,2,2,5,Excellent,805,Low Risk,Approved,3,1,0,2
+Sunita,43,Salaried,30,265824,95297,0.3585,125556,120,3,2,4,Good,804,Low Risk,Approved,2,3,0,2
+Ashok,31,Business,27,85482,46539,0.5444,490562,84,1,1,2,Average,710,Medium Risk,Conditional Approval,1,1,1,1
+Geeta,44,Business,28,66632,39107,0.5869,426146,84,7,2,0,Average,705,Medium Risk,Conditional Approval,1,1,1,1
+Ravi,48,Business,7,178336,94463,0.5297,783286,36,4,1,3,Good,766,Low Risk,Conditional Approval,2,1,0,1
+Anjali,64,Salaried,20,26328,15317,0.5818,1475052,120,9,2,3,Poor,499,High Risk,Rejected,0,3,2,0
+Sunil,29,Salaried,25,28559,10798,0.3781,1321312,60,6,0,3,Good,705,Medium Risk,Approved,2,3,1,2
+Bharti,58,Business,21,26228,8811,0.3359,954496,12,4,2,2,Average,628,Medium Risk,Conditional Approval,1,1,1,1
+Mohan,64,Self-Employed,17,231077,53009,0.2294,931739,84,3,3,1,Average,780,Low Risk,Approved,1,2,0,2
+Usha,33,Salaried,25,38648,8391,0.2171,1423017,36,10,3,4,Good,707,Medium Risk,Approved,2,3,1,2
+Prakash,65,Self-Employed,19,27002,5564,0.2061,1766358,120,6,1,0,Average,691,Medium Risk,Conditional Approval,1,2,1,1
+Shobha,36,Self-Employed,24,49656,29354,0.5911,919145,84,2,1,3,Average,625,Medium Risk,Conditional Approval,1,2,1,1
+Ganesh,46,Business,28,36199,19582,0.541,508943,24,2,3,3,Excellent,695,Medium Risk,Conditional Approval,3,1,1,1
+Revathi,37,Business,19,97477,55807,0.5725,1791829,60,9,3,3,Average,720,Medium Risk,Conditional Approval,1,1,1,1
+Harish,52,Salaried,2,222695,87900,0.3947,619827,36,5,2,1,Average,730,Medium Risk,Approved,1,3,1,2
+Padma,27,Salaried,13,49884,21875,0.4385,1027114,48,6,0,4,Good,705,Medium Risk,Approved,2,3,1,2
+Naveen,48,Salaried,24,249714,13295,0.0532,1178730,84,7,1,3,Good,887,Low Risk,Approved,2,3,0,2
+Saranya,39,Business,23,83804,35020,0.4179,1978418,24,3,0,3,Poor,644,Medium Risk,Conditional Approval,0,1,1,1
+Kartik,59,Salaried,8,41776,22006,0.5268,493883,48,7,2,2,Good,664,Medium Risk,Conditional Approval,2,3,1,1
+Lavanya,46,Self-Employed,30,171471,10401,0.0607,1413450,12,6,0,1,Average,859,Low Risk,Approved,1,2,0,2
+Dinesh,37,Salaried,30,41335,12832,0.3104,1516884,36,4,2,3,Excellent,760,Low Risk,Approved,3,3,0,2
+Hema,60,Self-Employed,29,23753,13322,0.5609,1549494,24,7,0,3,Good,667,Medium Risk,Conditional Approval,2,2,1,1
+Ramesh,62,Salaried,11,27957,6736,0.2409,1407996,36,2,0,4,Average,604,High Risk,Conditional Approval,1,3,2,1
+Shanthi,53,Self-Employed,30,68411,19806,0.2895,1744916,60,5,3,4,Good,750,Low Risk,Approved,2,2,0,2
+Aditya,59,Salaried,14,112177,60003,0.5349,1451292,48,10,2,4,Excellent,824,Low Risk,Conditional Approval,3,3,0,1
+Geetha,42,Business,22,107802,25569,0.2372,71288,60,5,1,4,Excellent,892,Low Risk,Approved,3,1,0,2
