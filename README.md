@@ -145,8 +145,11 @@ pip install imbalanced-learn ipywidgets scikit-learn matplotlib pandas numpy
 **Thirumurugan**
 📍 Coimbatore, Tamil Nadu, India
 
---LinkedIn Profile: https://www.linkedin.com/in/thirumurugan-b-302800380
---GitHub Profile: https://github.com/thirumurugan-1911 
+LinkedIn Profile: https://www.linkedin.com/in/thirumurugan-b-302800380
+
+
+
+GitHub Profile: https://github.com/thirumurugan-1911 
 
 ---
 
