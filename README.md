@@ -155,7 +155,7 @@ Integrate real-time prediction API
 🏢 Internship Project:
 
 
-​This project was completed as Task 4 of the CodeAlpha Machine Learning Internship.
+​This project was completed as Task 1 of the CodeAlpha Machine Learning Internship.
 
 
 ​🌐 www.codealpha.tech
